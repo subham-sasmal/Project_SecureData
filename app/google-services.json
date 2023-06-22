@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029193031030",
+    "project_id": "secqureaise-assignment",
+    "storage_bucket": "secqureaise-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029193031030:android:f8c25aedfc15386f022e57",
+        "android_client_info": {
+          "package_name": "com.example.secqureaise_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029193031030-p06868nd00ub0b3q381djpe59fe43csm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlDFOb0PLqg5VzDexrNxDMIe-gpc7uckc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029193031030-p06868nd00ub0b3q381djpe59fe43csm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
